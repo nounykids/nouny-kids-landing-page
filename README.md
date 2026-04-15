@@ -5,7 +5,9 @@ Landing page one-page statique en francais pour presenter `Nouny Kids` a la fois
 ## Fichiers
 
 - `index.html` : structure et contenus
+- `variante-entreprise.html` : version alternative orientee entreprise-first
 - `styles.css` : design responsive desktop + mobile
+- `variante-entreprise.css` : surcouche de style pour la variante
 - `script.js` : navigation mobile
 
 ## Previsualiser en local
@@ -21,6 +23,11 @@ Puis ouvrir :
 ```text
 http://localhost:8080
 ```
+
+Pages disponibles :
+
+- originale : `http://localhost:8080/index.html`
+- variante entreprise-first : `http://localhost:8080/variante-entreprise.html`
 
 ## Hebergement gratuit sur GitHub Pages
 
