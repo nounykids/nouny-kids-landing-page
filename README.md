@@ -7,9 +7,11 @@ Landing page one-page statique en francais pour presenter `Nouny Kids` a la fois
 - `index.html` : structure et contenus
 - `variante-entreprise.html` : version alternative orientee entreprise-first
 - `variante-parents.html` : version alternative orientee parents salaries
+- `variante-professionnels.html` : version alternative orientee professionnels de la garde
 - `styles.css` : design responsive desktop + mobile
 - `variante-entreprise.css` : surcouche de style pour la variante
 - `variante-parents.css` : surcouche de style pour la variante parents
+- `variante-professionnels.css` : surcouche de style pour la variante professionnels
 - `script.js` : navigation mobile
 
 ## Previsualiser en local
@@ -31,6 +33,7 @@ Pages disponibles :
 - originale : `http://localhost:8080/index.html`
 - variante entreprise-first : `http://localhost:8080/variante-entreprise.html`
 - variante parents salaries : `http://localhost:8080/variante-parents.html`
+- variante professionnels : `http://localhost:8080/variante-professionnels.html`
 
 ## Hebergement gratuit sur GitHub Pages
 
